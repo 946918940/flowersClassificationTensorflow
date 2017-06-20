@@ -1,6 +1,6 @@
 # Tensorflow Flowers Classifier
 
-For all those flower lovers out there, here is a Tensorflow image classifier that can predict the species of a flower from its photo. This model is trained to detect 5 different species of flowers.
+For all those flower lovers out there, here is a Tensorflow image classifier that can predict the species of a flower from its image. This model is trained to detect 5 different species of flowers.
 
 1. daisy
 2. dandelion
